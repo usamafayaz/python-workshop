@@ -25,7 +25,7 @@ This project was developed during a one-month training workshop focused on machi
 
 this is not a project, this is just training of all these thing prior to our final  year project, Industrial Watch, that is AI project.
 for Industrial Watch Visit   ```
-https://github.com/usamafayaz/IndustrialWatchFYPBackend.git
+https://github.com/usamafayaz/industrial-watch-backend.git
     ```
 ## Contact
 For any inquiries, please contact [usama.fayyaz157@gmail.com].
